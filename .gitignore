@@ -1,0 +1,23 @@
+# Visual Studio / .NET
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local tooling and logs
+.idea/
+.vscode/
+*.log
+TestResults/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large local demo recordings
+*.mp4
+*.avi

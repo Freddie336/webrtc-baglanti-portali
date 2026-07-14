@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WebRTCSignalingServer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50035;http://localhost:50036"
+    }
+  }
+}
